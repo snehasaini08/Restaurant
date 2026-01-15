@@ -31,24 +31,36 @@ FOODIE/
    ```bash
    git clone https://github.com/snehasaini08/Restaurant.git
 
-🎯 Learning Outcomes
+## 🎯 Learning Outcomes
 
-Understanding HTML page structure
+Through this project, I learned:
 
--Applying CSS for styling
+- Basic structure of HTML web pages  
+- How to style web pages using CSS  
+- Creating and linking multiple HTML pages  
+- Organizing project files and folders  
+- Writing a clear and professional README file  
 
--Creating multi-page websites
+## 🚀 Future Improvements
 
--Organizing files and folders
+- Add JavaScript for better interactivity  
+- Improve responsiveness for all screen sizes  
 
--Writing a professional README file
+## 🤝 Contributing
 
-🚀 Future Improvements
+Contributions are welcome!  
+Feel free to fork this repository and submit a pull request to improve the project.
 
--Add JavaScript for interactivity
+## 📜 License
 
-👩‍💻 Author
+This project is open source and free to use for learning and educational purposes.
 
-Sneha Saini
+## 👩‍💻 Author
+
+**Sneha Saini**  
+GitHub: https://github.com/snehasaini08
+
+
+
 GitHub: https://github.com/snehasaini08
 
