@@ -34,6 +34,6 @@ FOODIE/
 ## 📸 Screenshots
 
 ### Home Page
-![Foodly Website](screenshots/foodly.png)
+![Foodly Website](Screenshots/foodly.png)
 
 
