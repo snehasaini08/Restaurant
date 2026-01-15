@@ -31,9 +31,24 @@ FOODIE/
    ```bash
    git clone https://github.com/snehasaini08/Restaurant.git
 
-## 📸 Screenshots
+🎯 Learning Outcomes
 
-### Home Page
-![Foodly Website](Screenshots/foodly.png)
+Understanding HTML page structure
 
+-Applying CSS for styling
+
+-Creating multi-page websites
+
+-Organizing files and folders
+
+-Writing a professional README file
+
+🚀 Future Improvements
+
+-Add JavaScript for interactivity
+
+👩‍💻 Author
+
+Sneha Saini
+GitHub: https://github.com/snehasaini08
 
